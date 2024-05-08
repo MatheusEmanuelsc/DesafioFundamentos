@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "82zhhfU1qX+RWoN1lP7v9TE2qOHtmxhmr/EegW6rX4LfLWzezS6dII9YV1eqyke5xh5oeNbPjOb0ztWCGj6kkA==",
+  "success": true,
+  "projectFilePath": "/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "/home/matheusemanuel/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.28/microsoft.netcore.app.host.linux-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

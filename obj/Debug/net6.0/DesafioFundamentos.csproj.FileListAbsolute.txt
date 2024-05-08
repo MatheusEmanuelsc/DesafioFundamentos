@@ -1,0 +1,15 @@
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.deps.json
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.runtimeconfig.json
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.dll
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/bin/Debug/net6.0/DesafioFundamentos.pdb
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfoInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.AssemblyInfo.cs
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.csproj.CoreCompileInputs.cache
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.sourcelink.json
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.dll
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/refint/DesafioFundamentos.dll
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.pdb
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/DesafioFundamentos.genruntimeconfig.cache
+/home/matheusemanuel/Documentos/Biblioteca/DesafioDioCSharpFundamentos/trilha-net-fundamentos-desafio/DesafioFundamentos/obj/Debug/net6.0/ref/DesafioFundamentos.dll
